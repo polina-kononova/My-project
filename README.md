@@ -30,3 +30,5 @@
 Для простоты восприятия были выставлены диапазоны [0, 9] для размера массивов и [0, 99] для чисел.
 
 ![image](https://user-images.githubusercontent.com/98398064/154653876-e5c973c0-9c9a-42cc-ad11-0af60ffbda49.png)
+
+Файл task_prog.c
